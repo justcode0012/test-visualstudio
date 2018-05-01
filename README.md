@@ -1,1 +1,1 @@
-# test-visualstudio !TEST whatever
+# test-visualstudio !TEST
